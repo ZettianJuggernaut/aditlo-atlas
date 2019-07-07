@@ -1,0 +1,83 @@
+
+spr_cat.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AppArt, Atlas, Cat0, Body
+  rotate: false
+  xy: 2, 34
+  size: 290, 220
+  orig: 290, 220
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Cat0, Eyelids
+  rotate: true
+  xy: 466, 154
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Cat0, Eyes
+  rotate: false
+  xy: 246, 2
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Cat0, Head
+  rotate: false
+  xy: 294, 84
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Cat0, Mouth 1
+  rotate: false
+  xy: 2, 2
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Cat0, Mouth 2
+  rotate: false
+  xy: 124, 2
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Cat0, Mouth 3
+  rotate: true
+  xy: 466, 102
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Cat0, Mouth 4
+  rotate: false
+  xy: 328, 15
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Cat0, Tail 1
+  rotate: true
+  xy: 294, 42
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Cat0, Tail 2
+  rotate: false
+  xy: 376, 2
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Cat0, Tail 3
+  rotate: false
+  xy: 418, 2
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1

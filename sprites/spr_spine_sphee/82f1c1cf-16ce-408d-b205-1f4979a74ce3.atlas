@@ -1,0 +1,1035 @@
+
+spr_spine_sphee.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AppArt, Atlas, Skin, Base, Chest
+  rotate: false
+  xy: 56, 46
+  size: 51, 80
+  orig: 51, 80
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Base, Head
+  rotate: true
+  xy: 52, 20
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Base, LeftArmLower
+  rotate: true
+  xy: 1057, 107
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Base, LeftArmUpper
+  rotate: true
+  xy: 303, 6
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Base, LeftHand
+  rotate: false
+  xy: 212, 5
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Base, RightArmLower
+  rotate: true
+  xy: 2, 2
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Base, RightArmUpper
+  rotate: true
+  xy: 2023, 116
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Base, RightHand
+  rotate: true
+  xy: 2020, 82
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Base, Stomach
+  rotate: true
+  xy: 32, 2
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Bruise, Chest
+  rotate: false
+  xy: 109, 46
+  size: 51, 80
+  orig: 51, 80
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Bruise, Head
+  rotate: true
+  xy: 919, 102
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Bruise, LeftArmLower
+  rotate: true
+  xy: 235, 25
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Bruise, LeftArmUpper
+  rotate: true
+  xy: 1478, 109
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Bruise, RightArmLower
+  rotate: true
+  xy: 62, 2
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemAir, Chest
+  rotate: false
+  xy: 834, 62
+  size: 49, 64
+  orig: 51, 80
+  offset: 1, 15
+  index: -1
+AppArt, Atlas, Skin, ElemAir, Head
+  rotate: true
+  xy: 235, 2
+  size: 21, 27
+  orig: 24, 44
+  offset: 1, 16
+  index: -1
+AppArt, Atlas, Skin, ElemAir, LeftArmLower
+  rotate: true
+  xy: 1102, 107
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemAir, LeftArmUpper
+  rotate: true
+  xy: 341, 6
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemAir, LeftHand
+  rotate: true
+  xy: 531, 4
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemAir, RightArmLower
+  rotate: true
+  xy: 92, 2
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemAir, RightArmUpper
+  rotate: true
+  xy: 2023, 104
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemAir, RightHand
+  rotate: true
+  xy: 582, 36
+  size: 8, 13
+  orig: 8, 15
+  offset: 0, 2
+  index: -1
+AppArt, Atlas, Skin, ElemAir, Stomach
+  rotate: true
+  xy: 920, 70
+  size: 16, 26
+  orig: 16, 28
+  offset: 0, 2
+  index: -1
+AppArt, Atlas, Skin, ElemDark, Chest
+  rotate: false
+  xy: 162, 46
+  size: 51, 80
+  orig: 51, 80
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemDark, Head
+  rotate: true
+  xy: 1782, 104
+  size: 22, 29
+  orig: 24, 44
+  offset: 0, 14
+  index: -1
+AppArt, Atlas, Skin, ElemDark, LeftArmLower
+  rotate: true
+  xy: 280, 25
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemDark, LeftArmUpper
+  rotate: true
+  xy: 1516, 109
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemDark, LeftHand
+  rotate: false
+  xy: 548, 5
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemDark, RightArmLower
+  rotate: true
+  xy: 122, 2
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemDark, RightArmUpper
+  rotate: true
+  xy: 1836, 92
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemDark, RightHand
+  rotate: true
+  xy: 597, 37
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemDark, Stomach
+  rotate: true
+  xy: 152, 2
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemEarth, Chest
+  rotate: false
+  xy: 585, 47
+  size: 49, 79
+  orig: 51, 80
+  offset: 1, 0
+  index: -1
+AppArt, Atlas, Skin, ElemEarth, Head
+  rotate: true
+  xy: 98, 20
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemEarth, LeftArmLower
+  rotate: true
+  xy: 1147, 107
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemEarth, LeftArmUpper
+  rotate: true
+  xy: 379, 6
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemEarth, LeftHand
+  rotate: false
+  xy: 924, 53
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemEarth, RightArmLower
+  rotate: true
+  xy: 182, 2
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemEarth, RightArmUpper
+  rotate: true
+  xy: 1873, 98
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemEarth, RightHand
+  rotate: true
+  xy: 614, 37
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemEarth, Stomach
+  rotate: true
+  xy: 1873, 110
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemFire, Chest
+  rotate: false
+  xy: 215, 46
+  size: 51, 80
+  orig: 51, 80
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemFire, Flame1
+  rotate: true
+  xy: 702, 31
+  size: 4, 10
+  orig: 6, 12
+  offset: 0, 2
+  index: -1
+AppArt, Atlas, Skin, ElemFire, Flame2
+  rotate: false
+  xy: 595, 22
+  size: 5, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemFire, Flame3
+  rotate: true
+  xy: 652, 29
+  size: 6, 11
+  orig: 6, 12
+  offset: 0, 1
+  index: -1
+AppArt, Atlas, Skin, ElemFire, Flame4
+  rotate: true
+  xy: 678, 29
+  size: 6, 10
+  orig: 6, 12
+  offset: 0, 1
+  index: -1
+AppArt, Atlas, Skin, ElemFire, Flame5
+  rotate: true
+  xy: 690, 29
+  size: 6, 10
+  orig: 6, 12
+  offset: 0, 1
+  index: -1
+AppArt, Atlas, Skin, ElemFire, Flame6
+  rotate: true
+  xy: 2037, 85
+  size: 5, 9
+  orig: 6, 12
+  offset: 1, 2
+  index: -1
+AppArt, Atlas, Skin, ElemFire, Flame7
+  rotate: true
+  xy: 665, 29
+  size: 6, 11
+  orig: 6, 12
+  offset: 0, 1
+  index: -1
+AppArt, Atlas, Skin, ElemFire, Flame8
+  rotate: true
+  xy: 714, 31
+  size: 4, 8
+  orig: 6, 12
+  offset: 0, 2
+  index: -1
+AppArt, Atlas, Skin, ElemFire, Head
+  rotate: true
+  xy: 1813, 104
+  size: 22, 28
+  orig: 24, 44
+  offset: 0, 15
+  index: -1
+AppArt, Atlas, Skin, ElemFire, LeftArmLower
+  rotate: true
+  xy: 325, 25
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemFire, LeftArmUpper
+  rotate: true
+  xy: 1554, 109
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemFire, LeftHand
+  rotate: false
+  xy: 569, 5
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemFire, RightArmLower
+  rotate: true
+  xy: 1903, 110
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemFire, RightArmUpper
+  rotate: true
+  xy: 1898, 98
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemFire, RightHand
+  rotate: true
+  xy: 631, 37
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemFire, Stomach
+  rotate: true
+  xy: 1933, 110
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemLight, Chest
+  rotate: false
+  xy: 687, 47
+  size: 47, 79
+  orig: 51, 80
+  offset: 2, 0
+  index: -1
+AppArt, Atlas, Skin, ElemLight, Head
+  rotate: true
+  xy: 1843, 104
+  size: 22, 28
+  orig: 24, 44
+  offset: 0, 15
+  index: -1
+AppArt, Atlas, Skin, ElemLight, LeftArmLower
+  rotate: true
+  xy: 1192, 107
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemLight, LeftArmUpper
+  rotate: true
+  xy: 417, 6
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemLight, LeftHand
+  rotate: false
+  xy: 924, 36
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemLight, RightArmLower
+  rotate: true
+  xy: 1963, 110
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemLight, RightArmUpper
+  rotate: true
+  xy: 1923, 98
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemLight, RightHand
+  rotate: true
+  xy: 648, 37
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemLight, Stomach
+  rotate: true
+  xy: 834, 47
+  size: 13, 28
+  orig: 16, 28
+  offset: 1, 0
+  index: -1
+AppArt, Atlas, Skin, ElemWater, Chest
+  rotate: false
+  xy: 636, 47
+  size: 49, 79
+  orig: 51, 80
+  offset: 1, 0
+  index: -1
+AppArt, Atlas, Skin, ElemWater, Head
+  rotate: true
+  xy: 885, 62
+  size: 24, 33
+  orig: 24, 44
+  offset: 0, 11
+  index: -1
+AppArt, Atlas, Skin, ElemWater, LeftArmLower
+  rotate: true
+  xy: 370, 25
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemWater, LeftArmUpper
+  rotate: true
+  xy: 1592, 109
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemWater, LeftHand
+  rotate: false
+  xy: 1873, 81
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemWater, RightArmLower
+  rotate: true
+  xy: 1993, 110
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemWater, RightArmUpper
+  rotate: true
+  xy: 1948, 98
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemWater, RightHand
+  rotate: true
+  xy: 665, 37
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, ElemWater, Stomach
+  rotate: false
+  xy: 948, 72
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, EoD, Chest
+  rotate: false
+  xy: 268, 46
+  size: 51, 80
+  orig: 51, 80
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, EoD, Head
+  rotate: true
+  xy: 144, 20
+  size: 24, 43
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, EoD, LeftArmUpper
+  rotate: true
+  xy: 455, 6
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, EoD, RightArmLower
+  rotate: false
+  xy: 966, 72
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, EoD, Stomach
+  rotate: false
+  xy: 984, 72
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenreFantasy, AddOn1
+  rotate: false
+  xy: 885, 88
+  size: 32, 38
+  orig: 40, 40
+  offset: 4, 1
+  index: -1
+AppArt, Atlas, Skin, GenreFantasy, Chest
+  rotate: false
+  xy: 2, 46
+  size: 52, 80
+  orig: 52, 80
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenreFantasy, LeftArmLower
+  rotate: true
+  xy: 2, 20
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenreFantasy, LeftArmUpper
+  rotate: true
+  xy: 1372, 104
+  size: 22, 37
+  orig: 22, 38
+  offset: 0, 1
+  index: -1
+AppArt, Atlas, Skin, GenreFantasy, RightArmLower
+  rotate: true
+  xy: 864, 44
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenreFantasy, RightArmUpper
+  rotate: true
+  xy: 919, 88
+  size: 12, 27
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenreFantasy, Stomach
+  rotate: true
+  xy: 894, 44
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenrePirate, AddOn1
+  rotate: false
+  xy: 602, 24
+  size: 14, 11
+  orig: 40, 40
+  offset: 13, 15
+  index: -1
+AppArt, Atlas, Skin, GenrePirate, Chest
+  rotate: false
+  xy: 533, 46
+  size: 50, 80
+  orig: 51, 80
+  offset: 1, 0
+  index: -1
+AppArt, Atlas, Skin, GenrePirate, LeftArmLower
+  rotate: true
+  xy: 1237, 107
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenrePirate, RightArmLower
+  rotate: false
+  xy: 1002, 72
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenrePirate, Stomach
+  rotate: false
+  xy: 1020, 73
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenreSciFi, Chest
+  rotate: false
+  xy: 321, 46
+  size: 51, 80
+  orig: 52, 80
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenreSciFi, Head
+  rotate: true
+  xy: 965, 102
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenreSciFi, LeftArmLower
+  rotate: true
+  xy: 189, 22
+  size: 22, 44
+  orig: 24, 48
+  offset: 0, 2
+  index: -1
+AppArt, Atlas, Skin, GenreSciFi, LeftArmUpper
+  rotate: true
+  xy: 264, 4
+  size: 19, 37
+  orig: 22, 38
+  offset: 0, 1
+  index: -1
+AppArt, Atlas, Skin, GenreSciFi, LeftHand
+  rotate: false
+  xy: 1894, 81
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenreSciFi, RightArmLower
+  rotate: false
+  xy: 1038, 73
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenreSciFi, RightArmUpper
+  rotate: true
+  xy: 1808, 90
+  size: 12, 26
+  orig: 12, 28
+  offset: 0, 1
+  index: -1
+AppArt, Atlas, Skin, GenreSciFi, RightHand
+  rotate: true
+  xy: 682, 37
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenreSciFi, Stomach
+  rotate: true
+  xy: 1478, 91
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenreSuper, AddOn1
+  rotate: true
+  xy: 582, 22
+  size: 12, 11
+  orig: 40, 40
+  offset: 14, 15
+  index: -1
+AppArt, Atlas, Skin, GenreSuper, Chest
+  rotate: false
+  xy: 374, 46
+  size: 51, 80
+  orig: 51, 80
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenreSuper, LeftArmLower
+  rotate: true
+  xy: 415, 25
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenreSuper, LeftArmUpper
+  rotate: true
+  xy: 1630, 109
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenreSuper, LeftHand
+  rotate: false
+  xy: 1915, 81
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenreSuper, RightArmLower
+  rotate: true
+  xy: 1508, 91
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenreSuper, RightArmUpper
+  rotate: true
+  xy: 1973, 98
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenreSuper, RightHand
+  rotate: true
+  xy: 699, 37
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, GenreSuper, Stomach
+  rotate: true
+  xy: 1538, 91
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern1, Chest
+  rotate: false
+  xy: 427, 46
+  size: 51, 80
+  orig: 51, 80
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern1, Head
+  rotate: true
+  xy: 550, 22
+  size: 22, 30
+  orig: 24, 44
+  offset: 0, 13
+  index: -1
+AppArt, Atlas, Skin, Modern1, LeftArmLower
+  rotate: true
+  xy: 1282, 107
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern1, LeftArmUpper
+  rotate: true
+  xy: 493, 6
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern1, LeftHand
+  rotate: false
+  xy: 1936, 81
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern1, RightArmLower
+  rotate: true
+  xy: 1568, 91
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern1, RightArmUpper
+  rotate: true
+  xy: 1998, 98
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern1, RightHand
+  rotate: true
+  xy: 716, 37
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern1, Stomach
+  rotate: true
+  xy: 1598, 91
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern2, Chest
+  rotate: false
+  xy: 736, 50
+  size: 47, 76
+  orig: 51, 80
+  offset: 1, 0
+  index: -1
+AppArt, Atlas, Skin, Modern2, Head
+  rotate: true
+  xy: 1411, 102
+  size: 24, 33
+  orig: 24, 44
+  offset: 0, 11
+  index: -1
+AppArt, Atlas, Skin, Modern2, LeftArmLower
+  rotate: true
+  xy: 460, 25
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern2, LeftArmUpper
+  rotate: true
+  xy: 1668, 109
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern2, LeftHand
+  rotate: false
+  xy: 1957, 81
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern2, RightArmLower
+  rotate: true
+  xy: 1628, 91
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern2, RightArmUpper
+  rotate: true
+  xy: 2023, 92
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern2, RightHand
+  rotate: false
+  xy: 590, 5
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern2, Stomach
+  rotate: true
+  xy: 1658, 91
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern3, Chest
+  rotate: false
+  xy: 480, 46
+  size: 51, 80
+  orig: 51, 80
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern3, Head
+  rotate: true
+  xy: 1446, 102
+  size: 24, 30
+  orig: 24, 44
+  offset: 0, 14
+  index: -1
+AppArt, Atlas, Skin, Modern3, LeftArmLower
+  rotate: true
+  xy: 1327, 107
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern3, LeftArmUpper
+  rotate: true
+  xy: 1706, 109
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern3, LeftHand
+  rotate: false
+  xy: 1978, 81
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern3, RightArmLower
+  rotate: true
+  xy: 1688, 91
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern3, RightArmUpper
+  rotate: false
+  xy: 1861, 79
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern3, RightHand
+  rotate: true
+  xy: 618, 27
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern3, Stomach
+  rotate: true
+  xy: 1718, 91
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern4, Chest
+  rotate: false
+  xy: 785, 50
+  size: 47, 76
+  orig: 51, 80
+  offset: 1, 0
+  index: -1
+AppArt, Atlas, Skin, Modern4, Head
+  rotate: true
+  xy: 1011, 103
+  size: 23, 44
+  orig: 24, 44
+  offset: 1, 0
+  index: -1
+AppArt, Atlas, Skin, Modern4, LeftArmLower
+  rotate: true
+  xy: 505, 25
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern4, LeftArmUpper
+  rotate: true
+  xy: 1744, 109
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern4, LeftHand
+  rotate: false
+  xy: 1999, 81
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern4, RightArmLower
+  rotate: true
+  xy: 1748, 91
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern4, RightArmUpper
+  rotate: true
+  xy: 1836, 80
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern4, RightHand
+  rotate: true
+  xy: 635, 27
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+AppArt, Atlas, Skin, Modern4, Stomach
+  rotate: true
+  xy: 1778, 86
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1

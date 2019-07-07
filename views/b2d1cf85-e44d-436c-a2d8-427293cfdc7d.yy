@@ -1,0 +1,31 @@
+{
+    "id": "b2d1cf85-e44d-436c-a2d8-427293cfdc7d",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "b2d1cf85-e44d-436c-a2d8-427293cfdc7d",
+    "children": [
+        "9171e682-fe22-4097-8fac-c20d44c126af",
+        "df597850-59df-4ab2-bd21-b96e13f84976",
+        "bf1f7396-038b-4769-8a50-3fc8808b8797",
+        "03f410bb-e7c0-4f20-ad33-4d8188ae61d9",
+        "dc28db53-92a5-4b52-8ee1-e2d6deed789a",
+        "fbf6528f-d91b-4c0c-89ff-c9bdd23cc58d",
+        "a7121be0-a16e-41db-b136-9fd81cb67e0c",
+        "39a839f0-793f-4666-9690-c95054a56bcd",
+        "25e6d195-a7aa-49df-b075-0632b8ef141e",
+        "a9f3d88e-0423-417c-9257-2ede50e5152d",
+        "33acb3bf-11f4-4d1d-b6fb-58220f4b066d",
+        "cd82e857-a0e6-46fa-97ef-300803e07d5b",
+        "7a0b6153-4e8a-4474-971b-b88ee4135c18",
+        "54915984-0aea-4364-ba17-4c5ad86e6198",
+        "b7d401c6-97fc-40fc-a93c-c469a3694e60",
+        "a1b030ee-16f1-472d-a09b-1b2da3773d6c",
+        "1818644c-90aa-410d-a8fa-113d4f1014af",
+        "d153b5be-f745-4900-b33e-0b2e4ea15db6",
+        "880bc4b2-cf78-4138-9865-816764c5b611"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Gameover",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

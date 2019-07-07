@@ -1,0 +1,1 @@
+x = obj_track_cover.x - 510;

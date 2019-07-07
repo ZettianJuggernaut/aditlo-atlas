@@ -1,0 +1,1 @@
+global.unlock_text = "TIME RAN OUT";

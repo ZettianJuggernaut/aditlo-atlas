@@ -1,0 +1,10 @@
+instance_destroy(obj_scroll);
+instance_destroy(obj_button_play);
+instance_destroy(obj_button_retry);
+instance_destroy(obj_button_chapter);
+instance_destroy(obj_button_menu);
+instance_destroy(obj_cat_retalk);
+instance_activate_all();
+sprite_delete(global.spr_screen);
+sprite_index = spr_faded_black;
+audio_resume_all();
